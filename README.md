@@ -2,9 +2,7 @@
 created this in order to learn git
 
 
-let me just changethings abit
+## tryingout branching
 
-trying to learn new things
-
-
-testing
+1 open index.html
+2 delete the footer
